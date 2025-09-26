@@ -11,10 +11,10 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%23-007ACC?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Android%20Studio-1DA1F2?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" />
   <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
@@ -23,25 +23,25 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrFarr&show_icons=true&theme=radical" alt="stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrFarr&layout=compact&theme=radical" alt="langs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SrFarr&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrFarr&layout=compact&theme=tokyonight" alt="langs" height="165"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SrFarr&theme=radical&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SrFarr&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
+
 ## 📫 Connect with Me
 <p align="center">
   <a href="mailto:farrsdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/Farrvchar">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
